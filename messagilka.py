@@ -41,5 +41,3 @@ while running:
     for msg in says:
         msg.box(window, w, h)
     pygame.display.update()
-
-
